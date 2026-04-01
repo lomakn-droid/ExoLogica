@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+from datetime import datetime
 
 def main():
     print("🚀 Запуск ExoLogica UMSI-Анализатора (Path C)...")
@@ -11,7 +12,7 @@ def main():
         print(f"✅ База данных успешно загружена. Всего строк: {len(df)}")
         
         # Проверяем доступные колонки
-        print(f"📋 Доступные колонки: {list(df.columns)[:10]}...")  # Показываем первые 10
+        print(f"📋 Доступные колонки: {list(df.columns)[:10]}...")
         
     except FileNotFoundError:
         print("❌ Ошибка: Файл 'ExoLogica_Export-s.csv' не найден!")
@@ -122,6 +123,12 @@ def main():
         
         display_df_top = pd.DataFrame(display_data_top)
         print(display_df_top.to_string(index=False))
+        
+        # Сохраняем результаты в файл
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        output_file = f"true_earths_candidates_{timestamp}.csv"
+        true_earths.to_csv(output_file, index=False, sep=';')
+        print(f"\n💾 Результаты сохранены в файл: {output_file}")
     else:
         print("Нет планет, соответствующих строгим критериям Истинных Земель.")
 
