@@ -5,7 +5,7 @@ authors:
   - family-names: "Lomakn" # Или ваше реальное имя/ник
     given-names: "Droid"
 version: "1.0.0"
-doi: "10.5281/zenodo.xxxxxx" # Ссылка на Zenodo (см. пункт 3)
+doi: "10.5281/zenodo.19371261" # Ссылка на Zenodo (см. пункт 3)
 date-released: "2024-03-01"
 url: "https://github.com/lomakn-droid/ExoLogica"
 license: MIT
