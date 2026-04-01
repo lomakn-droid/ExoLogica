@@ -36,14 +36,14 @@ Our primary targets are characterized by strong metal pollution, deep gravitatio
 #### Appendix A2: Target Spectral Lines and Sensitivity Coefficients ($K_i$)
 To constrain $\mu$ variation in the NIR/MIR bands, we will target the fundamental ($v=1-0$) and overtone vibro-rotational bands of $CO$, alongside available refractory metal transitions. Vibro-rotational transitions provide excellent leverage for $\mu$ constraints.
 
-| Species | Transition / Band | Rest Wavelength ($\mu m$) | Sensitivity $K_\mu$ | Instrument |
-|:--------|:------------------|:--------------------------|:--------------------|:-----------|
-| CO      | $v = 1-0$ $P(1)$  | 4.67                      | $\approx +0.5$      | NIRSpec    |
-| CO      | $v = 2-0$ $R(2)$  | 2.34                      | $\approx +0.5$      | NIRSpec    |
-| Fe I    | $a^5D - z^5D^\circ$| 1.56                      | $+0.021$            | NIRSpec    |
-| Mg I    | $3s3p - 3s4s$     | 1.18                      | $-0.005$            | NIRSpec    |
+| Species | Transition / Band   | Rest $\lambda$ ($\mu m$) | Sensitivity $K_\mu$ | Instrument / Grating |
+|:--------|:--------------------|:-------------------------|:--------------------|:---------------------|
+| CO      | $v = 1-0$ $P(1)$    | 4.67                     | $\approx +0.5$ * | NIRSpec G395H        |
+| CO      | $v = 2-0$ $R(2)$    | 2.34                     | $\approx +0.5$ * | NIRSpec G235H        |
+| Fe I    | $a^5D - z^5D^\circ$ | 1.56                     | $+0.021$            | NIRSpec G140H / G235H|
+| Mg I    | $3s3p - 3s4s$       | 1.18                     | $-0.005$            | NIRSpec G140H        |
 
-*(Note: The differential $K_\mu$ between molecular CO bands and atomic metal lines provides the necessary baseline for linear regression in the MMM).*
+*(Note: $K_\mu$ values for CO vibro-rotational transitions are derived following the theoretical frameworks outlined by Ubachs et al. 2016).*
 
 ### 3. Expected Sensitivity & Feasibility
 Based on JWST Exposure Time Calculator (ETC) simulations for our targets:
