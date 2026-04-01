@@ -129,4 +129,4 @@ All results presented in this project are fully reproducible using the provided 
 
 *Author: Lomakn-droid (ExoLogica Project)*
 *License: MIT License*
-*Contact: [Your Email or GitHub Profile Link]*
+*Contact: Lomakn@gmail.com*
