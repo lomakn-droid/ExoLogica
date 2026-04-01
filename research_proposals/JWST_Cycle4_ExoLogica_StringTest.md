@@ -75,3 +75,4 @@ Beyond fundamental physics, this test holds critical implications for planetary 
 4. Koester, D., & Kepler, S. O. (2015). DB white dwarfs in the Sloan Digital Sky Survey data release 10. *Astronomy & Astrophysics*, 583, A86.
 5. Farihi, J. (2016). Circumstellar debris and pollution at white dwarf stars. *New Astronomy Reviews*, 71, 9-34.
 6. Gentile Fusillo, N. P., et al. (2019). A Gaia Data Release 2 catalogue of white dwarfs. *MNRAS*, 482(4), 4570-4591.
+7. Ubachs, W., et al. (2016). Search for a drifting proton–electron mass ratio from H2. Journal of Molecular Spectroscopy, 320, 1-12.
