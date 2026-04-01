@@ -32,6 +32,11 @@ Based on JWST Exposure Time Calculator (ETC) simulations for our targets:
 - **Expected Precision:** $\sigma(\Delta\mu/\mu) \sim 2 \times 10^{-6} \ (1\sigma)$.
 This represents an order-of-magnitude improvement over existing strong-field constraints!
 
+**Caveats:**
+- The precision estimate assumes accurate knowledge of sensitivity coefficients (K_i) for all transitions
+- Systematic errors from 3D NLTE effects, magnetic fields, and wavelength calibration must be controlled at the 10⁻⁶ level
+- GD 362 has already been observed with JWST, providing a valuable test case for our methodology
+
 ### 4. Data Reduction Pipeline & Handling Systematics
 The primary challenge in white dwarf spectroscopy lies in masking effects (Stark broadening, Zeeman splitting). Our custom analysis framework consists of:
 1. **Initial Processing:** Standard STScI pipeline (Stage 2-3).
@@ -50,3 +55,7 @@ Beyond fundamental physics, this test holds critical implications for planetary 
 3. Bagdonaite, J., et al. 2013, Phys. Rev. Lett., 111, 231101 (H₂ in quasars)
 4. Koester, D., & Kepler, S. O. 2015, A&A, 583, A86 (WD atmospheres)
 5. JWST User Documentation, STScI (2024) — NIRSpec/MIRI specs
+6. Gentile Fusillo, N. P., et al. 2019, MNRAS, 482, 4570 (Gaia WD catalog)
+7. Gänsicke, B. T., Marsh, T. R., & Southworth, J. 2007, MNRAS, 380, L35 
+   (SDSS J1043+0855 gaseous disk)
+8. Becklin, E. E., et al. 2005, ApJ, 632, L119 (GD 362 dusty disk)
