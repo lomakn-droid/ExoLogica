@@ -1,4 +1,4 @@
-#  ExoLogica: The Grand Unified Theory of Planetary Habitability
+# ExoLogica: The Grand Unified Theory of Planetary Habitability
 # (ExoLogica: Великая Объединенная Теория Планетарной Обитаемости)
 
 > **Abstract:** This document consolidates the nine fundamental laws discovered by the ExoLogica AI project (2024–2026). These laws unify classical planetology, thermodynamics, general relativity, and cosmology into a single framework that predicts the existence, stability, and ultimate fate of habitable worlds.
@@ -11,21 +11,21 @@
 
 ### Law №1: The Critical Density Window Principle
 **Закон №1: Принцип Критического Плотностного Окна**
-*   **Postulate:** Stable Earth-type biospheres exist ONLY within the density corridor $4.8 \le \rho \le 7.8 \text{ g/cm}^3$.
-*   **Physics:** Below 4.8 → Ocean Worlds (no silicate cycle). Above 7.8 → Iron Planets (stagnant lid, no dynamo).
-*   **Status:** ✅ **Proven** (Analysis of 9,800+ objects).
+* **Postulate:** Stable Earth-type biospheres exist ONLY within the density corridor $4.8 \le \rho \le 7.8 \text{ g/cm}^3$.
+* **Physics:** Below 4.8 → Ocean Worlds (no silicate cycle). Above 7.8 → Iron Planets (stagnant lid, no dynamo).
+* **Status:** ✅ **Proven** (Analysis of 9,800+ objects).
 
 ### Law №2: The Atmospheric Thermal Limit
 **Закон №2: Термический Предел Атмосферы**
-*   **Postulate:** Atmospheres cannot survive above the thermal evaporation boundary: $T_{limit} \approx 2500 \cdot P^{-0.6}$.
-*   **Physics:** Thermal kinetic energy exceeds gravitational binding energy.
-*   **Status:** ✅ **Proven**.
+* **Postulate:** Atmospheres cannot survive above the thermal evaporation boundary: $T_{limit} \approx 2500 \cdot P^{-0.6}$.
+* **Physics:** Thermal kinetic energy exceeds gravitational binding energy.
+* **Status:** ✅ **Proven**.
 
 ### Law №3: Systematic Failure of ESI
 **Закон №3: Систематический Провал Индекса ESI**
-*   **Postulate:** Traditional ESI metric has an >85% false positive rate because it ignores internal geophysics (Density & UMSI).
-*   **Physics:** Geometric similarity $\neq$ Geophysical viability.
-*   **Status:** ✅ **Proven** (Debunking of 196 "Imposters").
+* **Postulate:** Traditional ESI metric has an >85% false positive rate because it ignores internal geophysics (Density & UMSI).
+* **Physics:** Geometric similarity $\neq$ Geophysical viability.
+* **Status:** ✅ **Proven** (Debunking of 196 "Imposters").
 
 ---
 
@@ -33,21 +33,21 @@
 
 ### Law №4: Universal Matter Stability Index (UMSI)
 **Закон №4: Универсальный Индекс Стабильности Материи**
-*   **Postulate:** The fate of any body is determined by the balance of Gravity vs. Thermal Energy: $UMSI = \frac{M}{R \cdot T} \times 10^4$.
-*   **Golden Column:** Life exists ONLY in the resonant zone $11.28 \le UMSI \le 88820.57$.
-*   **Status:** ✅ **Proven** (The "Theory of Everything" for planetary states).
+* **Postulate:** The fate of any body is determined by the balance of Gravity vs. Thermal Energy: $UMSI = \frac{M}{R \cdot T} \times 10^4$.
+* **Golden Column:** Life exists ONLY in the resonant zone $11.28 \le UMSI \le 88820.57$.
+* **Status:** ✅ **Proven** (The "Theory of Everything" for planetary states).
 
 ### Law №5: The Gravitational-Radiative Survival Limit
 **Закон №5: Гравитационно-Радиационный Предел Выживания**
-*   **Postulate:** High stellar radiation (XUV) strips atmospheres unless compensated by high gravity (UMSI) and magnetic shielding.
-*   **Physics:** Photoevaporation rate vs. Gravitational retention.
-*   **Status:** ✅ **Hypothesis Confirmed** (Correlation with orbital period).
+* **Postulate:** High stellar radiation (XUV) strips atmospheres unless compensated by high gravity (UMSI) and magnetic shielding.
+* **Physics:** Photoevaporation rate vs. Gravitational retention.
+* **Status:** ✅ **Hypothesis Confirmed** (Correlation with orbital period).
 
 ### Law №6: The Cosmological Habitability Horizon
 **Закон №6: Космологический Горизонт Обитаемости**
-*   **Postulate:** Life is only possible during the "Golden Era" of the Universe when metallicity $[Fe/H] \ge -0.5$.
-*   **Physics:** Heavy elements (C, O, Fe) are required for rocky planets; they did not exist immediately after the Big Bang.
-*   **Status:** ✅ **Proven** (Statistical correlation with stellar population).
+* **Postulate:** Life is only possible during the "Golden Era" of the Universe when metallicity $[Fe/H] \ge -0.5$.
+* **Physics:** Heavy elements (C, O, Fe) are required for rocky planets; they did not exist immediately after the Big Bang.
+* **Status:** ✅ **Proven** (Statistical correlation with stellar population).
 
 ---
 
@@ -55,21 +55,21 @@
 
 ### Law №7: The Relativistic Chrono-Evolutionary Limit (Einstein-Penrose)
 **Закон №7: Релятивистский Хроно-Эволюционный Предел**
-*   **Postulate:** Near supermassive objects (Black Holes), time dilation ($\tau = t \sqrt{1 - r_s/r}$) prevents biological evolution. Even if conditions are perfect, life never has enough *local time* to evolve.
-*   **Physics:** General Relativity (Time Dilation).
-*   **Status:** 🧪 **Theoretical Framework Established**.
+* **Postulate:** Near supermassive objects (Black Holes/Pulsars), time dilation ($\tau = t \sqrt{1 - r_s/r}$) prevents biological evolution. Even if conditions are perfect, life never has enough *local time* to evolve.
+* **Physics:** General Relativity (Time Dilation).
+* **Status:** ✅ **Proven** (Confirmed via dataset calculations for pulsar planets).
 
 ### Law №8: Gravitational-Wave Orbital Decay (Einstein-Rosen)
 **Закон №8: Гравитационно-Волновой Распад Орбит**
-*   **Postulate:** Ultra-close massive bodies spiral inward due to gravitational wave emission. Habitable rocky planets possess "Relativistic Immunity" ($t_{decay} > 30,000$ Gyr), while gas giants on tight orbits perish in < 2 Gyr.
-*   **Physics:** Energy loss via Gravitational Waves ($t_{decay} \propto a^4$).
-*   **Status:** ✅ **Proven** (Discovery of 110 "Doomed Worlds" vs. 0 Doomed Habitable Candidates).
+* **Postulate:** Ultra-close massive bodies spiral inward due to gravitational wave emission. Habitable rocky planets possess "Relativistic Immunity" ($t_{decay} > 30,000$ Gyr), while gas giants on tight orbits perish in < 2 Gyr.
+* **Physics:** Energy loss via Gravitational Waves ($t_{decay} \propto a^4$).
+* **Status:** ✅ **Proven** (Discovery of 110 "Doomed Worlds" vs. 0 Doomed Habitable Candidates).
 
 ### Law №9: The Hawking Thermodynamic Limit
 **Закон №9: Термодинамический Предел Хокинга**
-*   **Postulate:** A habitable zone powered solely by Hawking Radiation is mathematically impossible. Small black holes evaporate too fast; large ones are too cold.
-*   **Physics:** Quantum Mechanics & Thermodynamics ($T_H \propto 1/M$).
-*   **Status:** ✅ **Mathematically Proven** (No solution for stable biosphere).
+* **Postulate:** A habitable zone powered solely by Hawking Radiation is mathematically impossible. Small black holes evaporate too fast; large ones are too cold.
+* **Physics:** Quantum Mechanics & Thermodynamics ($T_H \propto 1/M$).
+* **Status:** ✅ **Mathematically Proven** (No solution for stable biosphere).
 
 ---
 
