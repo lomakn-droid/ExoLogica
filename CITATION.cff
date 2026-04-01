@@ -4,7 +4,6 @@ title: "ExoLogica AI: The Critical Density Law of Habitability"
 authors:
   - family-names: "Lomakn" # Или ваше реальное имя/ник
     given-names: "Droid"
-    orcid: "https://orcid.org/..." # Если есть ORCID, иначе удалите строку
 version: "1.0.0"
 doi: "10.5281/zenodo.xxxxxx" # Ссылка на Zenodo (см. пункт 3)
 date-released: "2024-03-01"
