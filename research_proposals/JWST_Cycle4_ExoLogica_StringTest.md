@@ -43,3 +43,10 @@ The primary challenge in white dwarf spectroscopy lies in masking effects (Stark
 
 ### 5. Broader Impacts: Astrobiology & Extreme Chemistry
 Beyond fundamental physics, this test holds critical implications for planetary habitability limits (The ExoLogica BSM Framework). If strong gravitational potentials induce even microscopic shifts in $\mu$ or $\alpha$, chemical bond energies are radically altered. This project will establish strict physico-chemical limits on the stability of complex polymers—and potential biochemistry—within the deep gravitational wells of massive super-Earths or near compact objects.
+
+### References
+1. Webb, J. K., et al. 2011, Phys. Rev. Lett., 107, 191101 (variation of α)
+2. Reinhold, E., et al. 2018, Phys. Rev. Lett., 120, 232002 (μ constraints)
+3. Bagdonaite, J., et al. 2013, Phys. Rev. Lett., 111, 231101 (H₂ in quasars)
+4. Koester, D., & Kepler, S. O. 2015, A&A, 583, A86 (WD atmospheres)
+5. JWST User Documentation, STScI (2024) — NIRSpec/MIRI specs
