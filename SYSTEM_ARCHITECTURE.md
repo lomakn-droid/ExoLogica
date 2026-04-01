@@ -27,7 +27,7 @@ The ExoLogica pipeline is built using modern Python data science libraries, opti
 ## 2. The 14-Stage Analysis Pipeline / 14-ступенчатый Конвейер Анализа
 
 The core of ExoLogica is a sequential processing pipeline that transforms raw observational data into a refined habitability score. Each stage applies specific physical laws or algorithms.
-**(Ядром ExoLogica является последовательный конвейер обработки, который преобразует сырые наблюдательные данные в уточненный индекс обитаемости. Каждый этап применяет特定的 физические законы или алгоритмы.)**
+**(Ядром ExoLogica является последовательный конвейер обработки, который преобразует сырые наблюдательные данные в уточненный индекс обитаемости. Каждый этап применяет астрофизические законы или алгоритмы.)**
 
 ### Phase 1: Data Ingestion & Cleaning (Этапы 1-3)
 1.  **Aggregation:** Merging data from NASA Exoplanet Archive, Kepler, TESS, K2, and radial velocity surveys.
